@@ -4,6 +4,16 @@ body {
   margin: 30;
 }
 
+h1 {
+  color:rgb(245, 245, 245);
+}
+
+html {
+  background: #070707 url(images/background.jpg);
+  background-size: contain;
+}
+
+
 h2{
   font-size:20px;
 }
